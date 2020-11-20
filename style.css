@@ -155,7 +155,7 @@ html {
 	text-align: center;
 }
 .hero .hero-info .hero-info-heading {
-	font-size: 5rem;
+	font-size: 25px;
 	font-weight: 500;
 	color: whitesmoke;
 }
@@ -177,12 +177,12 @@ html {
 	background-color: rgba(85, 85, 85, 0.534);
 }
 .hero .hero-img {
-	height: auto;
+	/* height: auto; */
 	width: 80%;
 	margin-bottom: 3rem;
 }
 .hero .hero-img img {
-	height: 600px;
+	height: 400px;
 	width: 100%;
 }
 /* End Hero Section */
