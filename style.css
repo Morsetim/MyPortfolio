@@ -140,7 +140,7 @@ html {
 
 /* Hero Section */
 .hero {
-	min-height: 60vh;
+	min-height: 80vh;
 	width: 100%;
 	padding-top: 50px;
 	justify-content: center;
@@ -177,12 +177,12 @@ html {
 	background-color: rgba(85, 85, 85, 0.534);
 }
 .hero .hero-img {
-	/* height: auto; */
+	height: auto;
 	width: 80%;
 	margin-bottom: 3rem;
 }
 .hero .hero-img img {
-	height: 400px;
+	height: 530px;
 	width: 100%;
 }
 /* End Hero Section */
