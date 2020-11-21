@@ -236,7 +236,7 @@ html {
 .about .about-info-button:hover {
 	background-color: rgba(28, 25, 25, 0.534);
     text-decoration: none;
-    padding: 1.6rem 2rem 1.8rem 1.6rem;
+    padding: 1.6rem 1.8rem 1.6rem 1.7rem;
     color: white;
 }
 .about .about-img {
