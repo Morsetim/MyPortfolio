@@ -25,6 +25,9 @@ html {
 	z-index: 100;
 	background-color: black;
 }
+.nav-ul{
+	display: flex;
+}
 .nav-bar {
 	background-color: black;
 	left: 0;
